@@ -1,0 +1,14 @@
+C:\Projeto C#\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.exe
+C:\Projeto C#\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.deps.json
+C:\Projeto C#\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.runtimeconfig.json
+C:\Projeto C#\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.dll
+C:\Projeto C#\Vetores1\Vetores1\bin\Debug\net8.0\Vetores1.pdb
+C:\Projeto C#\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.AssemblyInfoInputs.cache
+C:\Projeto C#\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.AssemblyInfo.cs
+C:\Projeto C#\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.csproj.CoreCompileInputs.cache
+C:\Projeto C#\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.dll
+C:\Projeto C#\Vetores1\Vetores1\obj\Debug\net8.0\refint\Vetores1.dll
+C:\Projeto C#\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.pdb
+C:\Projeto C#\Vetores1\Vetores1\obj\Debug\net8.0\Vetores1.genruntimeconfig.cache
+C:\Projeto C#\Vetores1\Vetores1\obj\Debug\net8.0\ref\Vetores1.dll
